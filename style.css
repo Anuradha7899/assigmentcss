@@ -1,0 +1,211 @@
+body{
+    border: 5px solid greenyellow;
+    
+}
+.main{
+    background-image: url(photo-1597200381847-30ec200eeb9a.jpg);
+    background-repeat:repeat ;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100%;
+    
+    border: 4px solid green;    
+}
+
+
+.exp{
+    display: inline-block; 
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+ }
+.ex{
+    height: 80PX;
+    width: 350PX;
+    background-color: black;
+    border: 6px solid red;
+    border-radius: 30px;
+    font-style:italic ;
+    text-align: center;
+text-align: center;
+    color: white;
+    margin-top: 5px; 
+    font-weight:bolder ;
+    font-size: 25px;
+    padding-top:2% ;
+    padding-bottom: 2%;
+} 
+.ex1{
+    font-size: 25px;
+    font-weight:bolder;
+    height: 50PX;
+    width: 500PX;
+    background-color: black;
+    border: 6px solid red;
+    border-radius: 30px;
+    font-style:italic ;
+    text-align: center;
+    /* margin-right: 700px; */
+    padding-top:10px ;
+    color: white; 
+    text-align: center;
+    margin-bottom: 2%; 
+    margin-left: -350px;
+    margin-top: 1%;
+
+}
+.ex2{
+    height: 80PX;
+    width: 350PX;
+    background-color: black;
+    border: 6px solid red;
+    border-radius: 30px;
+    font-style:italic ;
+    text-align: center;
+text-align: center;
+    color: white;
+    margin-top: 5px; 
+    font-weight:bold ;
+     font-size: 20px;
+    padding-top:1% ;
+    padding-bottom: 1%
+}
+    
+
+#exp1{
+    height: 600px;
+    width: 330px;
+    border: 6px ;
+    border-style: dashed;
+    text-align: center;
+    color: red;
+    margin-left: 170px;
+    display: inline-block;
+    background-color: aliceblue;
+}  
+input{
+    text-align: center;
+}
+.circle{
+    height: 250px;
+    width: 380px;
+    border: 6px solid gray; 
+    background-color: #0dbaa9;
+    text-align: center;
+    font-style: italic;
+    /* font-size: large; */
+    font-size: 23px;
+    font-weight:bolder;
+    color: black;
+    padding-top: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left:100px ;
+}
+.cl {
+    text-align:center ;
+    text-decoration: underline;
+}
+hr{
+    color: white;
+}
+.inline-block{
+    display: inline-block; 
+    display: flex;
+    align-items: center;
+}
+.MENU{
+    height: 50PX;
+    width: 400PX;
+    background-color: black;
+    border: 6px solid red;
+    border-radius: 20px;
+    font-style:italic ;
+    text-align: center;
+    margin-left: 400px;
+    color: white;
+    padding-top: 10px;
+    align-items: center;
+}
+.bold{
+    
+    font-weight: bolder;
+}
+.con1 {
+    height: 250px;
+    width: 350px;
+    background-color:rgb(101,250,250);
+    border: 4px solid green;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(2, 2, 59);
+}
+.con2{
+    height: 250px;
+    width: 350px;
+    background-color:rgb(101,250,250);
+    border: 4px solid green;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(2, 2, 59); 
+}
+.con3{
+    height: 250px;
+    width: 350px;
+    background-color:rgb(101,250,250);
+    border: 4px solid green;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(2, 2, 59); 
+}
+.con4{
+    height: 250px;
+    width: 350px;
+    background-color:rgb(101,250,250);
+    border: 4px solid green;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(2, 2, 59); 
+}
+.con5{
+    height: 250px;
+    width: 350px;
+    background-color:rgb(101,250,250);
+    border: 4px solid green;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(2, 2, 59); 
+}
+.con5{
+    height: 250px;
+    width: 350px;
+    background-color:rgb(101,250,250);
+    border: 4px solid green;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(2, 2, 59); 
+}
+.con6{
+    height: 300px;
+    width: 350px;
+    background-color:rgb(101,250,250);
+    border: 4px solid green;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(2, 2, 59); 
+    margin-bottom: 1%;
+}
+li{
+    font-size: large;
+}
+.container1{
+    display: inline-block; 
+    display: flex;
+    justify-content: space-around;
+}
+.container2{
+    display: inline-block; 
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
